@@ -1,0 +1,14 @@
+export const Logo = require('./logo.png');
+export const header = require('./header.png');
+export const header2 = require('./header2.png');
+export const header3 = require('./header3.png');
+export const Search = require('./search.png');
+export const Jar = require('./jar.png');
+export const Record = require('./record.png');
+export const Record2 = require('./record2.png');
+export const First = require('./first.png');
+export const Record3 = require('./record3.png');
+export const Review = require('./review.png');
+export const Blog1 = require('./blog1.png');
+export const Blog2 = require('./blog2.png');
+export const Blog3 = require('./blog3.png');

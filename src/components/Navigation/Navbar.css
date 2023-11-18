@@ -1,0 +1,6 @@
+.nav-item {
+    font-size: 18px;
+}
+.nav-item .active {
+    font-weight: 700;
+}

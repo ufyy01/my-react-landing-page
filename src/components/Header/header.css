@@ -1,0 +1,24 @@
+.hero h2 {
+    width: 450px;
+    font-weight: 700;
+    font-size: 46px;
+}
+.hero p {
+    width: 500px;
+    font-size: 21px;
+    color: #7D7987;
+}
+.hero .dash {
+    display: none;
+}
+
+@media screen and (max-width:991px) {
+    .hero h2 {
+        width: 100%;
+        font-size: 30px;
+    }
+    .hero p {
+        width: 100%;
+        font-size: 18px;
+    }
+}

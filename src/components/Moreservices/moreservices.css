@@ -1,0 +1,27 @@
+.first .services {
+    display: flex; 
+    flex-direction: row-reverse;
+}
+.moreservices .services .text {
+    width: 400px;
+}
+.moreservices .first .text {
+    margin-left: 70px;
+}
+.moreservices .second .text {
+    margin-left: 160px;
+}
+
+.moreservices h2 {
+    font-weight: 700;
+}
+.moreservices p {
+    font-size: 18px;
+    color: #7D7987;
+}
+.moreservices .dash {
+    width: 40px;
+    height: 3px;
+    background-color: black;
+    margin-top: 19px;
+}

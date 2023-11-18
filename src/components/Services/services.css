@@ -1,0 +1,37 @@
+.services {
+    margin: 150px 0;
+}
+.service-header h3{
+    font-weight: 700;
+    font-size: 36px;
+}
+.service-header .dash {
+    width: 45px;
+    height: 2px;
+    background-color: black;
+}
+.service-header p {
+    color: #7d7987;
+    font-size: 18px;
+}
+.service-card {
+    /* background-color: #e5e9f637; */
+    box-shadow: 10px 11px 19px -1px rgba(229,233,246,0.86);
+    -webkit-box-shadow: 10px 11px 19px -1px rgba(229,233,246,0.86);
+    -moz-box-shadow: 10px 11px 19px -1px rgba(229,233,246,0.86);
+    filter: drop-shadow(#e5e9f637 16px 16px);
+    border-radius: 20px;
+    width: 90%;
+    height: 100%; 
+}
+.service-card p {
+    color: #7d7987
+}
+.service-card h4 {
+    font-size: 24px;
+    font-weight: 700;
+}
+.service-card img {
+    width: 85px;
+    height: 95px;
+}
