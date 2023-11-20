@@ -1,6 +1,7 @@
 import Imagetext from "../Imagetext/Imagetext";
 import { header2, header3 } from "../../asset";
 import './moreservices.css';
+import '../../App.css';
 
 const Moreservices = () => {
     const services1 = {
@@ -25,5 +26,5 @@ const Moreservices = () => {
         </div>
     );
 }
- 
+
 export default Moreservices;

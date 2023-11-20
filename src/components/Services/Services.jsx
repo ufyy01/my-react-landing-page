@@ -1,6 +1,7 @@
 import { Search, Jar, Record, Record2, Record3, First } from "../../asset";
 import { StyleButton } from "../StyledButton/Button.styles";
-import './services.css'
+import './services.css';
+import '../../App.css';
 import { BigButton } from "../StyledButton/Button.styles";
 
 const Services = () => {
@@ -71,7 +72,7 @@ const Services = () => {
                     <div className="dash mx-auto"></div>
                     <p className="mt-3 px-5 mb-5">We provide to you the best choiches for you. Adjust it to your health needs and make sure your undergo treatment with our highly qualified doctors you can consult with us which type of service is suitable for your health</p>
                     </div>
-                    <div className="row gy-5 px-3">
+                    <div className="row gy-5 px-3 mt-2">
                         {getItem}
                     </div>
                     <div className="my-5 text-center">

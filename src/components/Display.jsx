@@ -6,6 +6,7 @@ import Services from './Services/Services';
 import Moreservices from './Moreservices/Moreservices';
 import Testimonals from './Testimonials/Testimonials';
 import Blog from './Blog/Blog';
+import '../App.css';
 
 const Display = () => {
 

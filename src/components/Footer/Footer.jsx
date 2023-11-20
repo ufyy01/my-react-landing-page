@@ -1,5 +1,6 @@
 import './Footer.css';
 import {Logo} from '../../asset';
+import '../../App.css';
 
 const Footer = () => {
     return ( 

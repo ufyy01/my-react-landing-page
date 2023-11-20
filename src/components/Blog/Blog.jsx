@@ -1,6 +1,7 @@
 import './blog.css';
 import {Blog1, Blog2, Blog3} from '../../asset'
 import { BigButton } from '../StyledButton/Button.styles';
+import '../../App.css';
 
 const Blog = () => {
     const blog = [

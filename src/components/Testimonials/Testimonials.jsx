@@ -2,6 +2,7 @@ import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Review } from "../../asset";
 import './testimonial.css';
+import '../../App.css';
 
 const Testimonals = () => {
     const reviews = [

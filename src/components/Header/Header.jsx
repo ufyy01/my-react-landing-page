@@ -1,6 +1,7 @@
 import Imagetext from '../Imagetext/Imagetext';
 import { header} from '../../asset';
 import '../Header/header.css';
+import '../../App.css';
 
 
 const Header = () => {
@@ -13,7 +14,7 @@ const Header = () => {
         <div className='hero'>
             <Imagetext details={headerText} image={header} button="d-none" buttonright="d-block"/>
         </div>
-     );
+    );
 }
- 
+
 export default Header;
