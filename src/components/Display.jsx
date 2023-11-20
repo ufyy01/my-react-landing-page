@@ -17,7 +17,7 @@ const Display = () => {
             <Moreservices />
             <Testimonals />
             <Blog />
-            {/* <Footer /> */}
+            <Footer />
     </div> 
     );
 }

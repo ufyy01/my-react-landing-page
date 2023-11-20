@@ -13,10 +13,11 @@
 
 .card-body h6 {
     font-weight: 700;
-    font-size: 20px;
+    font-size: 21px;
 }
 .card-body p {
     color: #7D7987;
+    font-size: 14px;
 }
 .blog .card .link {
     color: #4089ed;
